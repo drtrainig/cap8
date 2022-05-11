@@ -24,3 +24,9 @@ Probleme Optionale:
 
 1. Se da o lista de String-uri (Sau Integer, sau obiecte preferabile). Printr-o linie de cod, transformati lista intr-un set.
 Atentie: In lista se vor regasi elemente duplicate, in Set acele elemente duplicate vor aparea o singura data.
+
+2. Se da un map unde cheile sunt de tip int (atentie la int) iar valorile sunt de tip lista de int (atentie la int). 
+Fiecare element va fi o pereche de forma (int, list de int).
+Se cere ca pentru fiecare element din map sa se afiseze cheia, si maximul din lista asociata.
+
+3.
