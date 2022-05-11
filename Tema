@@ -29,4 +29,7 @@ Atentie: In lista se vor regasi elemente duplicate, in Set acele elemente duplic
 Fiecare element va fi o pereche de forma (int, list de int).
 Se cere ca pentru fiecare element din map sa se afiseze cheia, si maximul din lista asociata.
 
-3.
+3. Se dau doua structuri de date: un queue si un stack amblee continand numere intregi.
+Se cere sa se implementeze un program prin care la fiecare extragere a unui numar din stack, atatea elemente vor fi scoase din queue.
+Atunci cand nu mai sunt elemente ramase intr-una din structuri se va afisa care din ele a ramas empty. :) 
+
