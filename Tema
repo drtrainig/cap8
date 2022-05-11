@@ -20,3 +20,7 @@ Se cere sa se introduca de la tastatura id-ul si numele unei persoane. Daca Id-u
 Daca departamentul deja exista asignat persoanei deja, se va afisa un mesaj de eroare si programul se va incheia. Daca deparamentul nu este asignat persoanei respective, se va crea departamentul si se va asigna persoanei respective.
 
 
+Probleme Optionale:
+
+1. Se da o lista de String-uri (Sau Integer, sau obiecte preferabile). Printr-o linie de cod, transformati lista intr-un set.
+Atentie: In lista se vor regasi elemente duplicate, in Set acele elemente duplicate vor aparea o singura data.
